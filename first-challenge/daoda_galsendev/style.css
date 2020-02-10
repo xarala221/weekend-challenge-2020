@@ -1,0 +1,47 @@
+.navbar-item{
+    color: #47688a;
+    font-size: 17px;
+}
+.navbar-item.us{
+    color: #ffaa2e;
+    text-decoration: underline;
+}
+.nn{
+    color: white;
+}
+
+#mdf{
+    background-color: #2c3e50;
+    color: white;
+}
+
+th{
+    color: #2c3e50;
+    font-size: 14px;
+    font-family: 'Open Sans', normal;
+}
+td{
+    color: #2c3e50;
+    font-size: 16px;
+    font-family: 'Open Sans', normal;
+}
+
+.center-table th {
+    text-align: center;
+    vertical-align: middle;
+}
+.center-table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#ftr{
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 20px;
+    color: #2c3e50;
+}
+#chg{
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 20px;
+    color: #47688a;
+}
